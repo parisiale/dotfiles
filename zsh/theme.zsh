@@ -1,1 +1,3 @@
-prompt skwp
+# prompt skwp
+# prompt minimal
+prompt steeef

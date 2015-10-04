@@ -106,3 +106,6 @@ set sidescroll=1
 
 " ================ Custom Settings ========================
 so ~/.yadr/vim/settings.vim
+
+let base16colorspace=256
+
